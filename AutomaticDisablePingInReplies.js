@@ -19,8 +19,8 @@ module.exports = (() => {
             ],
             version: "1.0.0",
             description: "Suppresses mentions from Replied messages and when replying to someone else.",
-            github: "https://github.com/Strencher/BetterDiscordStuff/blob/master/AutomaticDisablePingInReplies/AutomaticDisablePingInReplies.plugin.js",
-            github_raw: "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/AutomaticDisablePingInReplies/AutomaticDisablePingInReplies.plugin.js"
+            github: "https://github.com/Liamabu/AutomaticDisablePingInReplies/blob/main/AutomaticDisablePingInReplies.js",
+            github_raw: "https://raw.githubusercontent.com/Liamabu/AutomaticDisablePingInReplies/main/AutomaticDisablePingInReplies.js"
         },
         changelog: [
             {
